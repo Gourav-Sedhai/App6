@@ -23,6 +23,7 @@ output_file("Scatter_plotting.html")
 show(p)
 
 -----------------------------------------------------
+
 #script1.py
 import cv2, time, pandas
 from datetime import datetime
